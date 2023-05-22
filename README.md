@@ -1,7 +1,7 @@
 # Final Examination - CCS 2700 Laboratory
 
 ## Screenshot 3:
-(https://github.com/TechHel/2700-finals/assets/128454758/d35dbad9-2ec7-4108-b524-e95a4fb1e722)
+https://github.com/TechHel/2700-finals/assets/128454758/d35dbad9-2ec7-4108-b524-e95a4fb1e722
 
 ## Screenshot 5.1:
 [Number 5 1 1](https://github.com/TechHel/2700-finals/assets/128454758/ad220695-8786-44df-bf4f-eae4b1f54e5f)
